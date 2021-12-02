@@ -1,5 +1,5 @@
-// Alunos: Victor Willian de Sousa e Fabr�cio de Paulo Rodrigues.
-// Turma: CCO-4.
+/* Alunos: Victor Willian de Sousa e Fabr�cio de Paulo Rodrigues.
+ Turma: CCO-4.*/
 
 #include <locale.h>
 #include <stdio.h>
